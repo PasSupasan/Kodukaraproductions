@@ -30,7 +30,7 @@
             <h3>Cover Songs</h3>
             <ul>
                 <li>Dekopul Kandulin Thema</li>
-                <img src="Dekopul.webp" alt="Dekopul Kandulin Thema" width="25%">
+                <img src="https://i9.ytimg.com/vi_webp/u42UfrqgjAQ/maxresdefault.webp?v=654b9b4b&sqp=CNDT-ckG&rs=AOn4CLBD-G3Fk7r41weKTVtU9EorG9l0HA" alt="Dekopul Kandulin Thema" width="25%">
                 <li>Danena Thuru Ma</li>
                 <li>Datha Dara</li>
                 <li>Nura Wasanthe</li>
