@@ -23,9 +23,11 @@
                 <li>Niwarthana</li>
                 <img src="https://i9.ytimg.com/vi/Qc2Ula67vRs/maxresdefault.jpg?v=62c9d139&sqp=CKjY-ckG&rs=AOn4CLAx5uFwKAWBr2ApYj2zJhC27kXMIA" alt="Niwarthana" width="25%">
                 <li>Nagachchathi</li>
-                <img src="Nagachchathi.jpg" alt="Nagachchathi" width="25%">
+                <img src="https://i9.ytimg.com/vi/tl8bAzXJAnk/maxresdefault.jpg?v=64ef9466&sqp=CKjY-ckG&rs=AOn4CLCgSD-WA3Jqm5kHN8GcO3s8Dwh7-Q" alt="Nagachchathi" width="25%">
                 <li>Obado Agana</li>
+                <img src="https://i9.ytimg.com/vi/Zvz2PZQjcMk/maxresdefault.jpg?v=62c64f92&sqp=CNTa-ckG&rs=AOn4CLDyC5X-mBbIP9IAenKHmcro6-BQrQ" alt="Obado Agana" width="25%">
                 <li>Sasara Pathana Kumariye</li>
+                <img src="https://i9.ytimg.com/vi_webp/g-ewitui1ZU/maxresdefault.webp?v=664ba091&sqp=CNTa-ckG&rs=AOn4CLBFQ1mgLOrFOglPOKtQyfRwI5hEVg" alt="Sasara Pathana Kumariye" width="25%">
             </ul>
             <h3>Cover Songs</h3>
             <ul>
