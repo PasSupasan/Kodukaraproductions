@@ -21,7 +21,7 @@
             <h3>Originals</h3>
             <ul>
                 <li>Niwarthana</li>
-                <img src="Niwarthana.jpg" alt="Niwarthana" width="25%">
+                <img src="[Niwarthana.jpg](https://i9.ytimg.com/vi/Qc2Ula67vRs/maxresdefault.jpg?v=62c9d139&sqp=CKjY-ckG&rs=AOn4CLAx5uFwKAWBr2ApYj2zJhC27kXMIA)" alt="Niwarthana" width="25%">
                 <li>Nagachchathi</li>
                 <img src="Nagachchathi.jpg" alt="Nagachchathi" width="25%">
                 <li>Obado Agana</li>
